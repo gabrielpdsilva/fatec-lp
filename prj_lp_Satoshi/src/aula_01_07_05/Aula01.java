@@ -2,7 +2,7 @@
 
 //Exercício Aula 01 – Traduzir o pseudo-código em Java e desenvolver um teste de mesa
 
-package aula_1_07_05;
+package aula_01_07_05;
 
 import javax.swing.JOptionPane;
 

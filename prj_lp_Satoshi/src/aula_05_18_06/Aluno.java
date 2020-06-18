@@ -1,4 +1,4 @@
-package aula_4_04_06;
+package aula_05_18_06;
 
 public class Aluno {
 	
@@ -6,17 +6,16 @@ public class Aluno {
 	String unome;
 	int pontos;
 	
-	//construtor vazio
-	public Aluno() {
-		this("","", 0);
-		
+	public Aluno(){
+		this("", "", 0);
 	}
 	
-	//construtor com parametros
 	public Aluno(String pnome, String unome, int pontos){
+		
 		this.pnome = pnome;
 		this.unome = unome;
 		this.pontos = pontos;
+		
 	}
 
 }
